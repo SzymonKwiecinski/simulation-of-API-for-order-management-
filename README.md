@@ -15,22 +15,22 @@
 * Azure database studio
 
 ## Based data
-* [link to xlsx file](/base_data.xlsx)
+* [link to xlsx file](/datasets/base_data.xlsx)
 <p align="center">
-<img src="data_orders_page.PNG">
+<img src="pictures/data_orders_page.PNG">
 </p>
 <p align="center">
-<img src="data_products_page.PNG">
+<img src="pictures/data_products_page.PNG">
 </p>
 <p align="center">
-<img src="data_markets_page.PNG">
+<img src="pictures/data_markets_page.PNG">
 </p>
 
 ## Exercise 1
 Create ERD Diagram based on the data.xlsx file. Your model should include types of data, primary keys, foreign keys, NULL or NOT NULL, relationships between tables, and constraints...
 
 <p align="center">
-<img src="exercise_1.png">
+<img src="pictures/exercise_1.png">
 </p>
 
 ## Exercise 2
@@ -38,7 +38,7 @@ Map the ERD diagram you made in the first task.
 * Create a database named "OrderDB" using  SQL Server.
 * Implement a procedure which allows you to add an order for a random client for more than one product.
 
-[T-SQL code for exercise 2](/exercise_2.sql)
+[T-SQL code for exercise 2](/pictures/exercise_2.sql)
 
 ## Exercise 3
 * Create cluster and non-cluster indexes. Explain your choice.
@@ -48,4 +48,11 @@ Map the ERD diagram you made in the first task.
 * Create a procedure which returns two newest orders for clients in segment=Consument
 
 
-[T-SQL code for exercise 3](/exercise_3.sql)
+[T-SQL code for exercise 3](/pictures/exercise_3.sql)
+
+## Exercise 4
+* Create API uding Flask or FastAPI [or micro webside]
+
+## TO DO
+[ ] - transalte sql comments to english  
+[ ] - minialize pictures with excele  

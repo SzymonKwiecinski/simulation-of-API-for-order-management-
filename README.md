@@ -32,3 +32,20 @@ Create ERD Diagram based on the data.xlsx file. Your model should include types 
 <p align="center">
 <img src="exercise_1.png">
 </p>
+
+## Exercise 2
+Map the ERD diagram you made in the first task.
+* Create a database named "OrderDB" using  SQL Server.
+* Implement a procedure which allows you to add an order for a random client for more than one product.
+
+[T-SQL code for exercise 2](/exercise_2.sql)
+
+## Exercise 3
+* Create cluster and non-cluster indexes. Explain your choice.
+* Create sparse and dense indexes. Explain your choice
+* Create column-store index
+* Create a procedure which returns all orders in the chosen country and with products in chosen category
+* Create a procedure which returns two newest orders for clients in segment=Consument
+
+
+[T-SQL code for exercise 3](/exercise_3.sql)

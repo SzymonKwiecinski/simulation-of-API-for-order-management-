@@ -16,15 +16,6 @@
 
 ## Based data
 * [link to xlsx file](/datasets/base_data.xlsx)
-<p align="center">
-<img src="pictures/data_orders_page.PNG">
-</p>
-<p align="center">
-<img src="pictures/data_products_page.PNG">
-</p>
-<p align="center">
-<img src="pictures/data_markets_page.PNG">
-</p>
 
 ## Exercise 1
 Create ERD Diagram based on the data.xlsx file. Your model should include types of data, primary keys, foreign keys, NULL or NOT NULL, relationships between tables, and constraints...

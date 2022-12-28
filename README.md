@@ -29,7 +29,7 @@ Map the ERD diagram you made in the first task.
 * Create a database named "OrderDB" using  SQL Server.
 * Implement a procedure which allows you to add an order for a random client for more than one product.
 
-[T-SQL code for exercise 2](/pictures/exercise_2.sql)
+[T-SQL code for exercise 2](https://github.com/SzymonKwiecinski/simulation-of-API-for-order-management-/blob/main/exercise_2.sql)
 
 ## Exercise 3
 * Create cluster and non-cluster indexes. Explain your choice.
@@ -39,7 +39,7 @@ Map the ERD diagram you made in the first task.
 * Create a procedure which returns two newest orders for clients in segment=Consument
 
 
-[T-SQL code for exercise 3](/pictures/exercise_3.sql)
+[T-SQL code for exercise 3](https://github.com/SzymonKwiecinski/simulation-of-API-for-order-management-/blob/main/exercise_3.sql)
 
 ## Exercise 4
 * Create API uding Flask or FastAPI [or micro webside]
